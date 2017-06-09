@@ -1,7 +1,7 @@
 {
   "name": "adgeek-shopify-utils",
   "description": "Common utility functions specific to Shopify",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Samuel Nkoom Amoah <sa.am@programmer.net>",
   "dependencies": {
     "adgeek-utils": "github:cocktail-insights/adgeek-utils",
